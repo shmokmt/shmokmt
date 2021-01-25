@@ -5,4 +5,4 @@
 
 ## Career
 
-* [Fuller, Inc.](https://fuller-inc.com/) (2019-) Software Engineer
+* [Fuller, Inc.](https://fuller-inc.com/) (2019-2021) Software Engineer
