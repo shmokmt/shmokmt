@@ -5,5 +5,5 @@
 
 ## Career
 
-* [Fuller, Inc.](https://fuller-inc.com/) (2019-2021) Software Engineer
-* [READYFOR](https://corp.readyfor.jp/) (2021-) Software Engineer/SRE
+* [Fuller, Inc.](https://fuller-inc.com/) (2019-2021) Software Engineer, Backend
+* [READYFOR](https://corp.readyfor.jp/) (2021-) Software Engineer, Cloud Infrastructure
